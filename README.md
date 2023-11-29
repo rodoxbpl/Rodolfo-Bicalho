@@ -1,8 +1,9 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/rodoxbpl/Rodolfo-Bicalho/assets/11923241/01b73d77-852c-4868-8fca-0d8eac171091">
 
 <h1>
-    <img align="center" alt="Logo Rodolfo Bicalho" width="36px" src="https://avatars.githubusercontent.com/u/11923241?s=400&u=346532e34e3e2c799a91b816639c91bd7f33d9a5&v=4"> 
+    <img align="center" alt="www.pngwing.com" width="36px" src="https://github.com/rodoxbpl/rodoxbpl/assets/11923241/133e4b0a-0e9e-445e-84fa-132e81cb83fd"> 
     <span>Rodolfo Bicalho</span>
+    
 </h1>
 
 <p align="justify">Initially front end developer now moving on to a full stack web, from Belo Horizonte MG, Brazil. Graduated in Information Systems,
@@ -39,6 +40,6 @@ my first contact with programming was in college with C++ and then Java.
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - GitHub Stats top langs by <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author) 
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)  
 
 </details>
