@@ -9,13 +9,13 @@
 <p align="justify">Initially front end developer now moving on to a full stack web, from Belo Horizonte MG, Brazil. Graduated in Information Systems,
 my first contact with programming was in college with C++ and then Java. 
 <br>
- Passionate about technology, fond of good films, series and of course, video games
+ Passionate about technology, fond of good films, series and of course, video games.
 
  <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rodolfo-bicalho-17292334/)
 
-<h3 align="left">Habilidades</h3>
+<h3 align="left">Skills</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
